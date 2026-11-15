@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+lid.db
+lid.db-shm
+lid.db-wal
+test_leads.db
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
